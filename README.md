@@ -10,8 +10,15 @@ Meu site pessoal, onde apresento quem sou, o que sei e como falar comigo. Feito 
 - Layout responsivo, para celular, tablet e computador
 - Texto animado na apresentação, com efeito de digitação
 - Menu que destaca a seção atual e animações ao rolar a página
-- Seções: **Sobre**, **Habilidades**, **Trajetória** e **Contato**
+- Seções: **Sobre**, **Habilidades**, **Projetos**, **Trajetória** e **Contato**
 - Respeita a preferência de movimento reduzido do sistema
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Site | Código |
+|---------|-----------|------|--------|
+| **Pneu Queimado** | Site institucional de uma oficina mecânica e centro automotivo, com serviços, produtos, avaliações e agendamento pelo WhatsApp. | [Ver site](https://fellipekock-dev.github.io/pneuqueimado/) | [Repositório](https://github.com/fellipekock-dev/pneuqueimado) |
+| **Focinho Feliz** | Página institucional de um pet shop para cães e gatos, com a história da marca, diferenciais, centro de distribuição e contatos. | [Ver site](https://fellipekock-dev.github.io/focinhofeliz/) | [Repositório](https://github.com/fellipekock-dev/focinhofeliz) |
 
 ## 🛠️ Tecnologias
 
